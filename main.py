@@ -4,9 +4,9 @@ import time
 import asyncio
 
 # Токен вашего бота
-TOKEN = "6222707449:AAEtENIPy7GtdeXjdOvA1olxI0kVqtkbQ8Q"
+TOKEN = " Token"
 # ID вашего канала
-CHAT_ID = "@forwine20" #"@your_channel_id"
+CHAT_ID = "@for" #"@your_channel_id"
 
 # Соединение с ботом
 bot = telegram.Bot(token=TOKEN)
